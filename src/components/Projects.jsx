@@ -28,13 +28,13 @@ const Projects = () => {
             live: "https://sales-dashboard-delta-smoky.vercel.app/"
         },
         {
-            title: "Project Beta",
-            description: "E-commerce platform with secure payment integration and user profile management. Built with Python Django and React.",
+            title: "Digital Health(Vital AI)",
+            description: "A comprehensive health monitoring platform using AI to analyze vital signs and provide personalized health recommendations Build with using Next.js and MongoDB.",
             color: "from-purple-600 to-purple-400",
             image: project2,
-            tech: ["Django", "React", "PostgreSQL", "Stripe"],
-            code: "",
-            live: ""
+            tech: ["Next.js", "MongoDB", "Tailwind CSS", ""],
+            code: "https://github.com/Spideyabi/AI_health_Monitor",
+            live: "https://ai-health-monitor-6m7h.vercel.app/"
         },
         {
             title: "Project Gamma",
