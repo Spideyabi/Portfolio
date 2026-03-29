@@ -37,13 +37,13 @@ const Projects = () => {
             live: "https://ai-health-monitor-6m7h.vercel.app/"
         },
         {
-            title: "Project Gamma",
-            description: "Automated task manager using simple AI heuristics. Optimized for performance and works offline.",
+            title: "Smart Traffic Control System",
+            description: "A smart traffic control system using AI to optimize traffic flow and reduce congestion. Build with using React for Demonstration, Actual project build with Python,SQL Lite, React+vite check it out in github.",
             color: "from-pink-600 to-pink-400",
             image: project3,
             tech: ["React Native", "TensorFlow.js", "Firebase"],
-            code: "",
-            live: ""
+            code: "https://github.com/Spideyabi/Smart_traffic_control_system",
+            live: "https://traffic-demo-puce.vercel.app/"
         },
     ];
 
